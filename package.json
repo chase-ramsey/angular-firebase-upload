@@ -1,0 +1,21 @@
+{
+  "name": "angular-firebase-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-ramsey/angular-firebase-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chase-ramsey/angular-firebase-upload/issues"
+  },
+  "homepage": "https://github.com/chase-ramsey/angular-firebase-upload#readme"
+}
